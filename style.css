@@ -1,0 +1,34 @@
+*{
+    font-family: Helvetica;
+    text-align: center;
+    margin-top: 20px;
+}
+form{
+    justify-items: center;
+    justify-content: center;
+    align-items: center;
+    border-radius: 30px;
+    padding: 40px;
+    width:60%;
+    border: 2px solid grey ;
+    background-color: beige;
+    box-shadow: 5px 5px 15px  ;
+}
+#textbox{
+    font-size: 24px;
+}
+button{
+    padding:15px 20px;
+    background-color: hsl(0, 100%, 49%);
+    color:white;
+    border-radius: 10px;
+    border:0cap;
+    cursor: pointer;
+}
+button:hover{
+    background-color:hsl(0, 100%, 73%) ;
+}
+#result{
+    font-size: 20px;
+    font-weight: 700;
+}
